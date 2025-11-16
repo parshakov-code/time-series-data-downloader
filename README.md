@@ -7,7 +7,7 @@ TSD integrates modern preprocessing algorithms—including Cloud Score+ for Sent
 
 ## Usage
 - Open "Time_Series_Data_Downloader.ipynb" in Jupyter Notebook.  
-- Configure the MGRS tile, sensors, and download parameters.  
+- Configure the MGRS tile, sensors, preprocessing and download parameters.  
 - Run the notebook to automatically download and preprocess satellite imagery.  
 
 TSD is provided as a single Jupyter Notebook and installs all required packages automatically. The notebook includes detailed explanations of all parameters and workflow steps, with further discussion available in the technical note referenced below.
