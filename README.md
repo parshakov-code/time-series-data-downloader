@@ -16,4 +16,4 @@ TSD is provided as a single Jupyter Notebook and installs all required libraries
 
 ## Citation
 If you use **TSD** in your research, please cite:
-**Parshakov, I., & Chen, D., 2025. Time Series Data Downloader: automatic preprocessing and downloading of Landsat 1–9, Sentinel-2, and other remote sensing data for multi-resolution time-series image analysis. Submitted to *Big Earth Data*.**
+**Parshakov, I., & Chen, D., 2026. Time Series Data Downloader: automatic preprocessing and downloading of Landsat 1–9, Sentinel-2, and other remote sensing data for multi-resolution time-series image analysis. Submitted to *Big Earth Data*.**
